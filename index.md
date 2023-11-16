@@ -1,35 +1,46 @@
-## Portfolio
+# Portfolio
+
+---
+## About me
+
+Hello! I am a 5th year computer science student at KTH Royal Institute of Technology
+in Stockholm, Sweden. 
+
+I enjoy many things, including video games, reading, music, photography, and programming. 
+Below, you'll find a collection of links to projects I've worked on, and "finished," to some degree. They're mostly school projects.
+
+Feel free to check out my GitHub for a peek at some of the ideas I haven't found as much time for!
 
 ---
 
-### Category Name 1 
+## Recent projects (Since starting my master's programme)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [CoVRt](https://druskus20.github.io/covrt-web)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+As part of a course on advanced graphics and interaction, a 2-player asymmetrical VR+desktop computer game was developed. My responsibilities included programming of visual effects for the desktop player, and a 3D fractal the VR player can explore in first person. I learned about raymarching and screenspace transformations, as well as some of the intricacies of working with VR in Unity.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Voxel Raytracer](https://ii-day-ii.github.io/voxel_raytracer)
+<iframe src="https://www.youtube.com/watch?v=K-DfGpbxgds">Link to youtube video</iframe>
+
+As part of a course on computer graphics and interaction, I implemented a stylized real-time raytracing solution for voxel scenes with per-voxel lighting. I learnt a lot about gpu programming and efficient traversal of uniform grids, and it was a lot of fun to implement a unique lighting system with reflecitons.
 
 ---
+### [Fisher-Man](https://urchin-game.github.io/)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+An indie game was proposed and a small vertical slice of it was implemented as part of a course on game design. I implemented swinging physics for the grappling hook, and applied the wave function collapse algorithm for procedural generation of levels. I learnt a lot about communication and structuring and documentation of a game project.
 
 ---
 
+## Older projects
 
-
+- [Bachelor's thesis](https://kth.diva-portal.org/smash/record.jsf?dswid=876&pid=diva2%3A1702458) - detection of copy-move forgeries
+- [IS1500](/is1500.md) - Pokémon game on embedded hardware
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+---
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->

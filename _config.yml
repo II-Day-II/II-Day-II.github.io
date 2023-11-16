@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: David Kaméus # your name (or website title) here
+#logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Fifth year Computer Science student at KTH royal institute of technology 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Specializing in computer graphics and visualization 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

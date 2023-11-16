@@ -22,7 +22,7 @@ As part of a course on advanced graphics and interaction, a 2-player asymmetrica
 
 ---
 ### [Voxel Raytracer](https://ii-day-ii.github.io/voxel_raytracer)
-<iframe src="https://www.youtube.com/watch?v=K-DfGpbxgds">Link to youtube video</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=K-DfGpbxgds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>Link to youtube video</iframe>
 
 As part of a course on computer graphics and interaction, I implemented a stylized real-time raytracing solution for voxel scenes with per-voxel lighting. I learnt a lot about gpu programming and efficient traversal of uniform grids, and it was a lot of fun to implement a unique lighting system with reflecitons.
 

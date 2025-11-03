@@ -24,7 +24,7 @@ Here are a few of the projects I've worked on during my time at KTH, within and 
 ![Screenshot of NMLE](/images/nmle_demo.png)
 
 NMLE is a visualization tool for matrix transforms in 2D. 
-It runs in WebGPU-enabled browsers! Click [here](ii-day-ii.github.io) to try it out! 
+It runs in WebGPU-enabled browsers! Click [here](https://ii-day-ii.github.io/nmle) to try it out! 
 Use the mouse to pan and scroll to zoom, then transform the rainbow square using the transform stack by editing the values of the matrix. 
 You can add more transformations, selecting from defaults such as rotation,
 scale and translation, or with finer control by adding custom matrices. 

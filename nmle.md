@@ -1,4 +1,4 @@
-# [NMLE](ii-day-ii.github.io/nmle) (Anomaly)
+# [NMLE](https://ii-day-ii.github.io/nmle) (Anomaly)
 
 
 ## Motivation

@@ -17,6 +17,19 @@ Feel free to check out my GitHub for a peek at some of the ideas I haven't found
 
 Here are a few of the projects I've worked on during my time at KTH, within and outside the boundaries of my studies. Click the blue project titles for more information on the projects!
 
+### [NMLE](/nmle.md) (Anomaly)
+
+(The link above leads to some reflections and implementation details on the project)
+
+![Screenshot of NMLE](/images/nmle_demo.png)
+
+NMLE is a visualization tool for matrix transforms in 2D. 
+It runs in WebGPU-enabled browsers! Click [here](ii-day-ii.github.io) to try it out! 
+Use the mouse to pan and scroll to zoom, then transform the rainbow square using the transform stack by editing the values of the matrix. 
+You can add more transformations, selecting from defaults such as rotation,
+scale and translation, or with finer control by adding custom matrices. 
+They will be applied from bottom to top and can be reordered by dragging their titles.
+
 ### Master's Thesis - Probe Placement Strategies for SPWI Radiance Cascades
 
 Code for this project is available [here](https://github.com/II-Day-II/Capsaicin-mex/tree/rc).
